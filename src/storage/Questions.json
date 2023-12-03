@@ -1,0 +1,258 @@
+{
+    "questions": [
+      {
+        "id":1,
+        "question": "Jak nazywa sie żartobliwa gra słów oparta na dwuznaczości wyrazów i podobieństwie ich brzmienia? ",
+        "answers": [
+          {
+            "id":1,
+            "answer": "palindrom",
+            "correct": false
+          },
+          {
+            "id":2,
+            "answer": "kalambury",
+            "correct": true
+          },
+          {
+            "id":3,
+            "answer": "głuchy telefon",
+            "correct": false
+          },
+          {
+            "id":4,
+            "answer": "słóweczko",
+            "correct": false
+          }
+        ]
+      },      {
+        "id":2,
+        "question": "Jakie imię nosi młody szlachcic, w którym zakochana jest Halka, bohaterka opery Stanisława Moniuszki?",
+        "answers": [
+          {
+            "id":1,
+            "answer": "Jacek",
+            "correct": false
+          },
+          {
+            "id":2,
+            "answer": "January",
+            "correct": false
+          },
+          {
+            "id":3,
+            "answer": "Jerzy",
+            "correct": false
+          },
+          {
+            "id":4,
+            "answer": "Janusz",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id":3,
+        "question": "Złoty orzeł widnieje na fladze jakiego kraju? ",
+        "answers": [
+          {
+            "id":1,
+            "answer": "Egiptu",
+            "correct": true
+          },
+          {
+            "id":2,
+            "answer": "Libanu",
+            "correct": false
+          },
+          {
+            "id":3,
+            "answer": "Kongo",
+            "correct": false
+          },
+          {
+            "id":4,
+            "answer": "Polski",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id":4,
+        "question": "Jakim łacińskim terminem określa się to, co święte, przeciwieństwo PROFANUM ",
+        "answers": [
+          {
+            "id":1,
+            "answer": "Arbor",
+            "correct": false
+          },
+          {
+            "id":2,
+            "answer": "Felis",
+            "correct": false
+          },
+          {
+            "id":3,
+            "answer": "Puella",
+            "correct": false
+          },
+          {
+            "id":4,
+            "answer": "Sacrum",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id":5,
+        "question": "Morze Liguryjskie jest cześcią jakiego większego akwenu?",
+        "answers": [
+          {
+            "id":1,
+            "answer": "Morza Egejskiego",
+            "correct": false
+          },
+          {
+            "id":2,
+            "answer": "Morza Bałtyckiego",
+            "correct": false
+          },
+          {
+            "id":3,
+            "answer": "Morza Śródziemnego",
+            "correct": true
+          },
+          {
+            "id":4,
+            "answer": "Morza Karaibskiego",
+            "correct": false
+          }
+        ]
+      },      {
+        "id":6,
+        "question": "Jak nazywa się technika skoku wzwyż, w której zawodnik jest zwrócony plecami do poprzeczki? ",
+        "answers": [
+          {
+            "id":1,
+            "answer": "obrotowa",
+            "correct": false
+          },
+          {
+            "id":2,
+            "answer": "flop",
+            "correct": true
+          },
+          { 
+            "id":3,
+            "answer": "nożycowa",
+            "correct": false
+          },
+          {
+            "id":4,
+            "answer": "przerzutowa",
+            "correct": false
+          }
+        ]
+      },      {
+        "id":7,
+        "question": "Jak nazwa się pierwszy przypadek w polskiej deklinacji? ",
+        "answers": [
+          {
+            "id":1,
+            "answer": "biernik",
+            "correct": false
+          },
+          {
+            "id":2,
+            "answer": "dopełniacz",
+            "correct": false
+          },
+          {
+            "id":3,
+            "answer": "celownik",
+            "correct": false
+          },
+          {
+            "id":4,
+            "answer": "mianownik",
+            "correct": true
+          }
+        ]
+      },      {
+        "id":8,
+        "question": "W ruinach którego starożytnego miasta znaleziono w 1901r. stellę z tekstem kodeksu Hammurabiego?",
+        "answers": [
+          {
+            "id":1,
+            "answer": "w Suzie",
+            "correct": true
+          },
+          {
+            "id":2,
+            "answer": "w Rzymie",
+            "correct": false
+          },
+          {
+            "id":3,
+            "answer": "w Krakowie",
+            "correct": false
+          },
+          {
+            "id":4,
+            "answer": "w Damaszku",
+            "correct": false
+          }
+        ]
+      },      {
+        "id":9,
+        "question": "Jak nazywa się grupa języków, do których należą jęzki: węgierski i fiński?",
+        "answers": [
+          {
+            "id":1,
+            "answer": "ugro-węgierskie",
+            "correct": false
+          },
+          { 
+            "id":2,
+            "answer": "germańskie",
+            "correct": false
+          },
+          {
+            "id":3,
+            "answer": "słowiańskie",
+            "correct": false
+          },
+          {
+            "id":4,
+            "answer": "ugro-fińskie",
+            "correct": true
+          }
+        ]
+      },      {
+        "id":10,
+        "question": "Charakterystytczny dźwięk koników polnych wytwarzają:",
+        "answers": [
+          {
+            "id":1,
+            "answer": "młode",
+            "correct": false
+          },
+          {
+            "id":2,
+            "answer": "samce",
+            "correct": true
+          },
+          {
+            "id":3,
+            "answer": "nie wytwarzają wcale",
+            "correct": false
+          },
+          {
+            "id":4,
+            "answer": "samice",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  }
